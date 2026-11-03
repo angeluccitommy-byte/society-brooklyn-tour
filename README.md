@@ -1,5 +1,1 @@
-# Society Brooklyn Virtual Tour
-
-Prospect-facing Society Brooklyn virtual tour, independent of TRA.
-
-To publish: upload the complete virtual tour HTML as `index.html`, then enable GitHub Pages from the main branch, root folder.
+Society Brooklyn Virtual Experience — updated working copy. New Degraw 1003/1004/1011 and Sackett 228/233 galleries; Sackett 1002/1005/1008 floor plans. Deploy contents of this folder to GitHub Pages. The separate Sackett DSC photos are not assigned to apartments because their labels are unknown.
